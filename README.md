@@ -24,6 +24,8 @@ Y Axis - Timing belt and pulley
 Z Axis - Long screws
 
 Nozzle - 0.4mm
+Filament - PETG and PLA
+Layer height - 0.1-0.3 mm
 
 Fan cooled hotend
 Heatbed temprature - 60'C (recommonded)
