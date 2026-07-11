@@ -12,3 +12,12 @@ Assemble the battery and the main board (mega) in the box of the Cover bottom pa
 
 step 5 
 Assemble two pillars of backside and smooth rods too of Y axis, then fix the X axis part and then fix the rest of the two pillars, so that all the X axis is locked into it.
+
+Step 6
+Complete the assembly with cover and all electronics parts too
+
+Step 7 
+Initialize all axis with endstorps one by one and test all the parameter like heatbed and hotend
+
+Step 8
+
