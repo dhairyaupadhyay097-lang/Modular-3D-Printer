@@ -1,6 +1,6 @@
 # Contributing to Atlas 3D Printer
 
-Thanks for your interest in contributing to Atlas 3D Printer!
+Thanks for your interest in contributing to Astrox 3D Printer!
 
 I would welcome contributions that improves the design, documentation, firmware, or overall build experience.
 
