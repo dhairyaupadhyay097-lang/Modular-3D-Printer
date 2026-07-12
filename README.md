@@ -5,11 +5,11 @@ A custom-built DIY 3D printer with a 200×200 mm build area, designed for precis
 
 ## My project will be helpful for:
 
--beginners
--makers
--students
--engineers 
--many more
+- beginners
+- makers
+- students
+- engineers 
+- many more
 
 ## Story and motivation to build
 
@@ -17,21 +17,21 @@ See, i am a huge fan of tony stark from my childhood for which i did many things
 
 ## Features:
 
-200x200x200mm build volume
-Marlin firmware
-opern sourced
-easy to make 
+- 200x200x200mm build volume
+- Marlin firmware
+- opern sourced
+- easy to make 
 
 ## Key details
 
-X Axis - Timing belt and pulley
-Y Axis - Timing belt and pulley
-Z Axis - Long screws
-Nozzle - 0.4mm
-Filament - PETG and PLA
-Layer height - 0.1-0.3 mm
-Fan cooled hotend
-Heatbed temprature - 60'C (recommonded)
+- X Axis - Timing belt and pulley
+- Y Axis - Timing belt and pulley
+- Z Axis - Long screws
+- Nozzle - 0.4mm
+- Filament - PETG and PLA
+- Layer height - 0.1-0.3 mm
+- Fan cooled hotend
+- Heatbed temprature - 60'C (recommonded)
 
 
 
