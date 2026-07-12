@@ -4,7 +4,7 @@ Thanks for your interest in contributing to Astrox 3D Printer!
 
 I would welcome contributions that improves the design, documentation, firmware, or overall build experience.
 
-## Ways You Can Contribute
+## Ways to Contribute
 
 - Improve the CAD design
 - Report bugs or design issues
