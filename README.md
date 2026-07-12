@@ -13,7 +13,7 @@ A custom-built DIY 3D printer with a 200×200 mm build area, designed for precis
 
 ## Story and motivation to build
 
-See, i am a huge fan of tony stark from my childhood for which i did many things, but to make them in real, i needed to actually make them. This task can be easily solved by the 3D printer and can do anything and make whatever i want, so i decided to make it.
+See, i am a huge fan of tony stark from my childhood for which i did many things, but to make them in real, i needed to actually make them. This task can be easily solved by the 3D printer and can do anything and make whatever i want, so i decided to make it. And i am obsessed tu build, howere time resticts, but i manage my time to work!!
 
 ## Features:
 
