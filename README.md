@@ -142,6 +142,7 @@ For detail, check the testing page
 
 ## Project Photos
 No mess here, photos of the build, assembly, and testing process are available in the Gallery
+https://github.com/dhairyaupadhyay097-lang/Modular-3D-Printer/tree/main/Images
 
 ## Firmware Files
 under development
