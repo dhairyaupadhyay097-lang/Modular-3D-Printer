@@ -1,27 +1,15 @@
-Step 1 
-Get the parts and do check for the quality first before using them.
-
-Step 2
-Assemble the base of the outer frame and the main carefully fix motor and rods for Z axis in the baseplate and then attatdh the cover with the base plate.
-
-Step 3 
-Assemble X axis first sperately and assemble it incuding the hotend. and the 2 motors to cling on it.
-
-Step 4
-Assemble the battery and the main board (mega) in the box of the Cover bottom part and lay all the wires out for easy connections.
-
-step 5 
-Assemble two pillars of backside and smooth rods too of Y axis, then fix the X axis part and then fix the rest of the two pillars, so that all the X axis is locked into it.
-
-Step 6
-Complete the assembly with cover and all electronics parts too
-
-Step 7 
-Initialize all axis with endstorps one by one and test all the parameter like heatbed and hotend
-
-Step 8
-Upload the firmware and check its functioning
-
-Step 9 
-Upload you design and get the job done
-
+Build Guide
+│
+├── 1. Before You Start
+├── 2. Required Tools
+├── 3. Frame Assembly
+├── 4. Y-Axis Assembly
+├── 5. Z-Axis Assembly
+├── 6. X-Axis Assembly
+├── 7. Print Head / Extruder
+├── 8. Heated Bed
+├── 9. Electronics
+├── 10. Wiring
+├── 11. Firmware
+├── 12. Final Checks
+└── 13. First Test
