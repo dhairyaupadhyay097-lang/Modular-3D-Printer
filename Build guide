@@ -1,15 +1,137 @@
-Build Guide
-│
-├── 1. Before You Start
-├── 2. Required Tools
-├── 3. Frame Assembly
-├── 4. Y-Axis Assembly
-├── 5. Z-Axis Assembly
-├── 6. X-Axis Assembly
-├── 7. Print Head / Extruder
-├── 8. Heated Bed
-├── 9. Electronics
-├── 10. Wiring
-├── 11. Firmware
-├── 12. Final Checks
-└── 13. First Test
+# 🔧 Build Guide
+
+This guide will show the main steps used to assemble the Modular 3D Printer. please check the dimensions with the CAD file and BOM befor assembling.
+
+## 1. Prepare the Parts
+
+Before starting, make sure you have all the required components from the BOM.
+https://github.com/dhairyaupadhyay097-lang/Modular-3D-Printer/blob/main/BOM.xlsx
+
+### Tools required
+
+- Screwdrivers
+- Pliers
+- Wire cutter/stripper
+- Cable ties
+- Multimeter
+- Measuring and calibration tools
+
+## 2. Build the Frame
+
+Start by assembling the bottom parts of the cover and the base first and assemble the upper part as part 2 and keep it aside.
+Check the frame diagonals to make sure the structure is properly aligned.
+
+## 3. Assemble the Z-Axis
+
+The Z-axis moves the print bed using Lead screws and stepper motor.
+1. Install the Z-axis motor with their motor holder
+2. Take up the heatbed, glass, and heatbed holder and join them with the couplers to fix it in the lead screws
+3. Aling the smooth rods and lead screw wth the bed holder
+4. fix the system with the base only when aligned properly with lead screws and heatbed holder
+
+Move the bed by hand to make sure it travels smoothly for smooth rods, and for motors try a testimonial code.
+
+## 4. Assemble the X-Axis
+
+The X-axis moves the E3D hotend with belt and pulley horizontally.
+
+1. Take the top plate of X axis 
+2. Attatch the X axis motor firts and the pulley along with the belt
+3. Take the hotend and its part, and prepare it, and keep it aside
+4. Fixthe smooth rods
+5. Now attatch the Hotend part with the belt an the smooth rods properly, also ensure tension shouldn't be excess otherwise the belt will break.
+
+## 5. Assemble the X-Axis
+
+The Y-axis moves the print head ack and forth 
+
+1. Install the 4 pillars first
+2. Assemble the motors with their holders and also put the pulley on the motors at that time 
+3. Mount motors on the pillars
+4. Now, take the x axis part and belt, attatch them and also fix it around the two respective sides of the pillar, and then align all the parts with the belt.
+5. Adjust belt tension.
+
+## 6. For the Hotend and Extruder
+
+Mount the extruder and hotend onto the X-axis carriage.
+
+Connect:
+
+* Extruder motor
+* Hotend heater
+* Hotend thermistor
+* Cooling fan
+
+Make sure the hotend is firmly mounted and the filament path is clear.
+
+## 7. For the Heated Bed
+
+Mount the heated bed onto the Y-axis holder.
+
+Connect the:
+
+* Bed heater
+* Bed thermistor
+
+Make sure the bed is stable and does not collide with the frame during movement.
+
+## 8. Install the Electronics
+
+Mount the Arduino Mega and RAMPS 1.4 securely and the pwer supply in the electronics box made in the cover.
+
+Connect:
+
+* X/Y/Z stepper motors
+* Extruder motor
+* Endstops
+* Hotend
+* Heated bed
+* Thermistors
+* Cooling fans
+* Power supply
+
+Also try to make a path for the cable along the surfaces like house wiring, dont let them fly inside the priinter, as much as possible
+
+**Do not power the printer until every connection has been checked.**
+
+## 9. Firmware
+
+Install the Marlin firmware provided in the `Firmware/` folder.
+
+Before operating the printer, verify the following:
+
+* Build volume
+* Motor directions
+* Steps/mm
+* Endstops
+* Thermistors
+* Temperature limits
+
+## 10. Final Checks
+
+Before the first power-on:
+
+* Check all screws and fasteners.
+* Check belt tension.
+* Move X, Y and Z manually.
+* Check all wiring.
+* Make sure wires do not touch moving parts.
+* Verify the thermistors are connected.
+* Make sure the hotend and bed are securely mounted and dont let them cross each other as it would damge themselves.
+
+## 11. First Test
+
+After completing the assembly:
+
+1. Power on the printer.
+2. Check temperature readings.
+3. Test X, Y and Z movement.
+4. Test the endstops.
+5. Test the hotend.
+6. Test the heated bed.
+7. Home the printer.
+8. Calibrate the printer.
+9. Perform a small first-layer test print.
+
+Once everything works correctly, then BOOOM, you got your stuff ready to build craziest things one can imagine!
+
